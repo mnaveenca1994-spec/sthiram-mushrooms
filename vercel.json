@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/api/place-order",
+      "destination": "/api/place-order.js"
+    }
+  ]
+}
